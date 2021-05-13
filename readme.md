@@ -2,4 +2,4 @@ As an aspiring author, feedback from my beta readers is my most valuable resourc
 
 This program takes a folder full of .docx files, and gives the user the option of a long or short analysis. The output is a csv with a name of the user's choosing, which can be analyzed elsewhere.
 
-Future updates will include more GUI and customization options. Possibly also more analysis within the actual program. When my beta readers are done with my current novel-length project, I'll also create a tableau report to show my findings.
+Future updates will include more GUI and customization options. Possibly also more analysis within the actual program. When my alpha readers are done with my current novel-length project, I'll also create a tableau report to show my findings.
